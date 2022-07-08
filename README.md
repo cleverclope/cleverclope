@@ -30,7 +30,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arinda-ivan-clever-03b24920a/)
+- :mailbox: You can further reach me via whatsap +256750482844 or email me : cleverarinda@gmail.com
 
 
 <!--
