@@ -11,11 +11,11 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=cleverclope&style=flat-square&color=blue" alt=""/> -->
+<img src="https://komarev.com/ghpvc/?username=cleverclope&style=flat-square&color=blue" alt=""/> 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ### Hi there 👋
 :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
