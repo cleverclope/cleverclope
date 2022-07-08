@@ -17,14 +17,9 @@
   </a>
 </div>
 
-<!--<img align="center" src="https://komarev.com/ghpvc/?username=cleverclope&style=flat-square&color=blue" alt=""/> 
-
- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
-
 ### Hi there 👋
-- 👯 I’m looking to collaborate with you on web developemnt ...
+- 👯 I’m looking forward to collaborate with you on web developemnt ...
+
 :telescope: I’m Clever Arinda, working as a Software Engineer and contributing to Javascript frameworks (Angular, React) frontend and backend for building web applications.
 
 - :seedling: Exploring the Technical Software world.
