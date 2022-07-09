@@ -24,7 +24,7 @@
 
 - :seedling: Exploring the Technical Software world.
 
-- :zap: I'm fun 😄😄. I will request to know about the environment, physical nature, climate of your home area and ways of life.
+- :zap: I'm fun 😄😄. I will request to know about the environment, nature, climate of your home area and ways of life.
 
 - :mailbox: You can further reach me via whatsap +256750482844 or email me : cleverarinda@gmail.com
 
