@@ -20,7 +20,7 @@
 ### Hi there 👋
 - 👯 I’m looking forward to collaborate with you on web developemnt ...
 
-- :telescope: I’m Clever Arinda, a Software Engineer associated with Javascript frameworks (Angular, React).
+- :telescope: I’m Clever Arinda, a Software Engineer associated with Javascript frameworks (Angular, React) and java (Spring Boot).
 
 - :seedling: Exploring the Technical Software world.
 
